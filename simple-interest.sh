@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # @daianalogy 2023
 
    # Input:
    # p, principal amount
